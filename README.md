@@ -1,0 +1,2 @@
+# UniversityManagementUML
+Patika Dev Ödevi
